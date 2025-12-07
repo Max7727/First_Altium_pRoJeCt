@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\First_pRoJeCt\Project Outputs for First_pRoJeCt\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/12/25
+Time:       12:18
+Revision:   b3b81b4808e45b02a9b711fdd0392f68fa76b48f
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint  Center-X(mil) Center-Y(mil) Rotation Description                                                                                                     
+R2         360R               BottomLayer R0805      295.276       452.756       270      "360 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film" 
+R1         360R               TopLayer    R0805      531.496       78.740        0        "360 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film" 
+J1         "Connector Header" TopLayer    Header_1x2 581.496       472.441       270      "KK 254 Wire-to-Board Header, Vertical, with Friction Lock, 2 Circuits, Tin (Sn) Plating"                       
+D2         "Green LED"        BottomLayer LED_0603   118.110       519.685       270      "Green 572nm LED Indication - Discrete 2V 0603 (1608 Metric)"                                                   
+D1         "Green LED"        TopLayer    LED_0603   224.409       78.740        0        "Green 572nm LED Indication - Discrete 2V 0603 (1608 Metric)"                                                   
