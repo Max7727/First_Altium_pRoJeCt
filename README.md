@@ -1,5 +1,5 @@
 # First_pRoJeCt
-Altium-Learning-Project
+Altium-Learning-Project - Altium 25.8.1
 
 The sole purpose of this project is to learn Altium and GitHub functionality.
 
