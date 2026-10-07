@@ -31,4 +31,3 @@ After generating all the necessary output files (Gerber files, drill file, BOM f
 <img src="\Project Outputs for First_pRoJeCt\_pictures\Screenshot_2.png" width="50%">
 
 
-* **Check out the description for commits for more details on the work process.**
